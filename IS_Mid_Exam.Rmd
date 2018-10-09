@@ -16,7 +16,7 @@ header-includes:
 
 \vspace{5mm}
 
-Use a normal distribution or a t-distribution to construct a 82% confidence interval for the population mean.  Justify your decision.  Interpret the results.
+**Part 1.** Use a normal distribution or a t-distribution to construct a 82% confidence interval for the population mean.  Justify your decision.  Interpret the results.
 
 \begin{questions}
 
@@ -33,13 +33,29 @@ Use a normal distribution or a t-distribution to construct a 82% confidence inte
 \end{questions} 
 \clearpage
 
-Construct 99% confidence intervals for the population proportion.  Interpret the results.
+**Part 2.** Construct 99% confidence intervals for the population proportion.  Interpret the results.
 
 \begin{questions}
 \question In a survey of 674 U.S. males ages 18–64, 396 say they have gone to the dentist in the past year.  
-\vspace{\stretch{1}}
+\vspace{3in}
 
 \end{questions}
 
+**Part 3.** assume each sample is taken from a normally distributed population and construct the indicated confidence intervals for (a) the population variance $\sigma^2$ and (b) the population
+standard deviation $\sigma$. Interpret the results.
 
+\begin{questions}
+\question The reserve capacities (in hours) of 18 randomly selected automotive batteries are shown. Use a $99\%$ level of confidence.
 
+1.70 1.60 1.94 1.58 1.74 1.60 1.86 1.72 1.38 1.46 1.64 1.49 1.55 1.70 1.75 0.88 1.77 2.07
+\vspace{\stretch{1}}
+
+\end{questions} 
+\clearpage
+
+**Part 4.** Find the minimum sample size needed if (a) no preliminary estimate is available, (b) using a prior study that found that 78% of U.S. adults want more funding for alternative energy.
+
+\begin{questions}
+\question You wish to estimate, with $95\%$ confidence, the population proportion of U.S. adults who want more funding for alternative energy. Your estimate must be accurate within $4\%$ of the population proportion.
+
+\end{questions}
