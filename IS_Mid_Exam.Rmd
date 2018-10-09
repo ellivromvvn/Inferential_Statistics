@@ -4,8 +4,6 @@ output: pdf_document
 date: "October 11, 2018"
 author: Orville D. Hombrebueno
 documentclass: exam
-header-includes: 
-  - \usepackage{multicol}
 ---
 
 \makebox[4in]{Name:\enspace\hrulefill}
