@@ -1,0 +1,45 @@
+---
+title: "Midterm Exam in Infrential Statistics"
+output: pdf_document
+date: "October 11, 2018"
+author: Orville D. Hombrebueno
+documentclass: exam
+header-includes: 
+  - \usepackage{multicol}
+---
+
+\makebox[4in]{Name:\enspace\hrulefill}
+
+\makebox[3in]{Course and Year:\enspace\hrulefill}
+
+\makebox[2in]{Date:\enspace\hrulefill}
+
+\vspace{5mm}
+
+Use a normal distribution or a t-distribution to construct a 82% confidence interval for the population mean.  Justify your decision.  Interpret the results.
+
+\begin{questions}
+
+\question You take a random survey of 25 sports cars and record the miles per gallon for each. The data are listed below. Assume the miles per gallon are normally distributed.
+
+15 27 24 24 20 21 24 14 21 25 21 13 21 25 22 21 25 24 22 24 24 22 21 24 24
+\vspace{\stretch{1}}
+ 
+\question In a recent season, the standard deviation of the yards per carry for all running backs was 1.34. The yards per carry of 20 randomly selected running backs are listed below. Assume the yards per carry are normally distributed.
+
+5.6 4.4 3.8 4.5 3.3 5.0 3.6 3.7 4.8 3.5 5.6 3.0 6.8 4.7 2.2 3.3 5.7 3.0 5.0 4.5
+\vspace{\stretch{1}}
+
+\end{questions} 
+\clearpage
+
+Construct 99% confidence intervals for the population proportion.  Interpret the results.
+
+\begin{questions}
+\question In a survey of 674 U.S. males ages 18–64, 396 say they have gone to the dentist in the past year.  
+\vspace{\stretch{1}}
+
+\end{questions}
+
+
+
