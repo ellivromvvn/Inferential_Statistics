@@ -1,16 +1,17 @@
 ---
-title: "Midterm Exam in Infrential Statistics"
 output: pdf_document
-date: "October 11, 2018"
-author: Orville D. Hombrebueno
 documentclass: exam
 ---
+\pagestyle{headandfoot}
+\firstpageheader{Inferential Statistics\\O. D. Hombrebueno}{Nueva Vizcaya State University\\College of Teacher Education}{Midterm Exam\\October 11, 2018}
+\runningheader{}{}{}
+\firstpagefooter{}{}{}
+\runningfooter{Inferential Statistics}{Midterm Exam}{Page \thepage\ of \numpages}
+\runningfootrule
 
 \makebox[4in]{Name:\enspace\hrulefill}
 
 \makebox[3in]{Course and Year:\enspace\hrulefill}
-
-\makebox[2in]{Date:\enspace\hrulefill}
 
 \vspace{5mm}
 
@@ -33,7 +34,7 @@ documentclass: exam
 1. In a survey of 674 U.S. males ages 18–64, 396 say they have gone to the dentist in the past year.  
 \vspace{3in}
 
-**Part 3.** assume each sample is taken from a normally distributed population and construct the indicated confidence intervals for (a) the population variance $\sigma^2$ and (b) the population
+**Part 3.** Assume each sample is taken from a normally distributed population and construct the indicated confidence intervals for (a) the population variance $\sigma^2$ and (b) the population
 standard deviation $\sigma$. Interpret the results.
 
 1. The reserve capacities (in hours) of 18 randomly selected automotive batteries are shown. Use a 99% level of confidence.
