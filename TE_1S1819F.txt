@@ -1,0 +1,21 @@
+**State the null and alternative hypotheses in symbols and identify which represents the claim.
+1. According to a recent survey, 74% of college students own an MP3 player.
+**Write sentences describing type I and type II errors for a hypothesis test of the indicated claim.
+2. A police station publicizes that at most 20% of applicants become police officers.
+**State null and alternative hypothesis in words and in symbols. Then determine whether the hypothesis
+test is left-tailed, right-tailed, or two-tailed. Explain your reasoning.
+3. A baseball team claims that the mean length of its games is less than 2.5 hours.
+**If a hypothesis test is performed, how should you interpret a decision that (a) rejects the null
+hypothesis? (b) fails to reject the null hypothesis?
+4. A scientist claims that the mean incubation period for swan eggs is less than 40 days.
+5. The standard deviation of the life of a certain type of lawn mower is at most 2.8 years.
+6. One of your distributors reports an average of 150 sales per day.You suspect that this average is
+   not accurate, so you randomly select 35 days and determine the number of sales each day. The sample
+   mean is 143 daily sales with a standard deviation of 15 sales. At alpha = 0.01 is there enough
+   evidence to doubt the distributor’s reported average? Use a P-value.
+(a) Write the null and alternative hypothesis mathematically and identify the claim.
+(b) Find the standardized test statistic z and its corresponding area. 
+(c) Find the P-value.
+(d) Decide whether to reject or fail to reject the null hypothesis.
+(e) Interpret the decision in the context of the original claim.
+7. Does failing to reject the null hypothesis mean that the null hypothesis is true? Explain.
